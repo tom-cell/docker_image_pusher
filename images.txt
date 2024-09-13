@@ -1,1 +1,2 @@
 forging2012/cephcsi:v3.4.0
+nginx:1.20.1
